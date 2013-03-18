@@ -1,0 +1,11 @@
+Blau:
+	R:65
+	G:105
+	B:225
+	RoyalBlue
+
+Dunkel Blau:
+	R:25
+	G:25
+	B:112
+	MidnightBlue
